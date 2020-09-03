@@ -1,6 +1,6 @@
 import service from "./functions";
 import { Person } from "../../entities";
-import { UpdateResult, DeleteResult } from "typeorm";
+import { DeleteResult } from "typeorm";
 import { CreateAndSaveRequestModel, UpdateAndSaveRequestModel } from "../../models/requestModels/PersonModels";
 
 
